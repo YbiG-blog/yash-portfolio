@@ -274,23 +274,26 @@ section {
   transition: all 0.4s ease-in-out;
   width: 60%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .html {
+.about-stats .progress-bars .progress-bar .progress-con .progress .cpp {
   width: 75%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .css {
+.about-stats .progress-bars .progress-bar .progress-con .progress .node {
   width: 73%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .js {
   width: 70%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .react {
-  width: 75%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .mongo {
+  width: 80%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .node {
-  width: 90%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .html {
+  width: 70%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .python {
-  width: 87%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .postman {
+  width: 86%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .git {
+  width: 81%;
 }
 
 .stat-title {
